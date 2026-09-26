@@ -9,6 +9,8 @@ Scripts for the manuscript entitled ***Integrating scRNA-seq and Spatial Transcr
 - scRNA-seq/SOP_merge.R
 - scRNA-seq/SOP_epi.R
 
+Please refer to ___Supplementary_table_S1.xlsx___ for detailed information on public scRNA-seq datasets.
+
 ## For Visium Cell2Location analysis
 - Visium/Cell2Location.ipynb
 
