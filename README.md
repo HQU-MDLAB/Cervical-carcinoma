@@ -1,2 +1,19 @@
 # Cervical-carcinoma
 Scripts for the manuscript entitled ***Integrating scRNA-seq and Spatial Transcriptomics Reveal Novel Risk Stratification Signatures in Cervical Carcinoma***.
+
+## For reproducing main figures
+- SOP_MS.R
+- SOP_MS_Sup.R
+
+## For scRNA-seq analysis
+- scRNA-seq/SOP_merge.R
+- scRNA-seq/SOP_epi.R
+
+## For Visium Cell2Location analysis
+- Visium/Cell2Location.ipynb
+
+## For IISS analysis
+- IISS/SOP.ipynb
+- IISS/SOP_Old.ipynb
+- IISS/SOP_New.ipynb
+- IISS/SOP_Fig5.ipynb
