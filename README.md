@@ -12,8 +12,11 @@ Scripts for the manuscript entitled ***Integrating scRNA-seq and Spatial Transcr
 ## For Visium Cell2Location analysis
 - Visium/Cell2Location.ipynb
 
+Raw Visium expression matrices have been deposited in [figshare](https://doi.org/10.6084/m9.figshare.33980842).
+
 ## For IISS analysis
 - IISS/SOP.ipynb
 - IISS/SOP_Old.ipynb
 - IISS/SOP_New.ipynb
 - IISS/SOP_Fig5.ipynb
+Raw IISS expression matrices have been deposited in [figshare](https://doi.org/10.6084/m9.figshare.34002561)
