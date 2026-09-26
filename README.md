@@ -20,4 +20,4 @@ Raw Visium expression matrices have been deposited in [figshare](https://doi.org
 - IISS/SOP_New.ipynb
 - IISS/SOP_Fig5.ipynb
 
-Raw IISS expression matrices have been deposited in [figshare](https://doi.org/10.6084/m9.figshare.34002561)
+Raw IISS expression matrices have been deposited in [figshare](https://doi.org/10.6084/m9.figshare.34002561).
